@@ -27,9 +27,9 @@
 
 ## 📸 Screenshots
 
-<img src="Screenshots/screenshot-1.PNG" width="300">
-<img src="Screenshots/screenshot-2.PNG" width="300">
-<img src="Screenshots/screenshot-3.PNG" width="300">
+<img src="FoodIQ/Screenshots/screenshot-1.PNG" width="300">
+<img src="FoodIQ/Screenshots/screenshot-2.PNG" width="300">
+<img src="FoodIQ/Screenshots/screenshot-3.PNG" width="300">
 
 ---
 
